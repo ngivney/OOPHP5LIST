@@ -23,3 +23,4 @@ class Item {
 		return $this->place;
 	}
 } // End of Item class
+?>
